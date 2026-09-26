@@ -205,5 +205,5 @@ esp_watch/
 * [x] Breadboard prototype
 * [x] Firmware
 * [x] PCB design
-* [] PCB fabrication / assembly
-* [] Enclosure development
+* [ ] PCB fabrication / assembly
+* [ ] Enclosure development
